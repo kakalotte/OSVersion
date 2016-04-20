@@ -1,0 +1,16 @@
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\OSVersion.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\OSVersion.Form1.resources
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\OSVersion.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\OSVersion.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\bin\Debug\EnvironmentInfo.exe
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\bin\Debug\EnvironmentInfo.pdb
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\EnvironmentInfo.exe
+E:\Dropbox\!Coding\All_in_one\Android\OSVersion\OSVersion\obj\Debug\EnvironmentInfo.pdb
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\EnvironmentInfo.exe
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\EnvironmentInfo.pdb
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\bin\Debug\EnvironmentInfo.exe
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\bin\Debug\EnvironmentInfo.pdb
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\OSVersion.csprojResolveAssemblyReference.cache
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\OSVersion.Form1.resources
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\OSVersion.Properties.Resources.resources
+F:\Dropbox\!Coding\All_in_one\OSVersion\OSVersion\obj\Debug\OSVersion.csproj.GenerateResource.Cache
